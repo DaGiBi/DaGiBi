@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently undergraduate from UITM<br>🌱 I’m currently learning node.js and react<br>⚡ Fun-Fact: Coffee gives me nausea but its delicious thoo<br>How to reach me : najibaseri@gmail.com
+🔭 Residing on Moon<br>
 
 
 ## 🌐 Socials:
